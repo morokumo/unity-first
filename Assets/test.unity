@@ -444,5 +444,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 01_rock_A
       objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: cf16f585f75159048aedfae4e1757d2d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.26
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf16f585f75159048aedfae4e1757d2d, type: 3}
